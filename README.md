@@ -4,7 +4,7 @@
 
 
 
-1. [Colab Demo](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) for GFPGAN <a href="https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>; 
+1. [Colab Demo](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) for GFPGAN <a href="https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 
 
 GFPGAN aims at developing a **Practical Algorithm for Real-world Face Restoration**.<br>
@@ -17,8 +17,7 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (*e.g
 
 <p align="center">
   <img src="assets\image-test.jpg" width=300> 
-  <img src="assets\image-test-result.jpg"width=300><br>
-  input-image output-image
+  <img src="assets\image-test-result.jpg"width=300>
 </p>
 
 ---
