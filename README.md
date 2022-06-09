@@ -63,8 +63,6 @@ We now provide a *clean* version of GFPGAN, which does not require customized CU
 
 ## :zap: Quick Inference
 
-We take the v1.3 version for an example. More models can be found [here](#european_castle-model-zoo).
-
 Download pre-trained models: [GFPGANv1.3.pth](https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth)
 
 ```bash
