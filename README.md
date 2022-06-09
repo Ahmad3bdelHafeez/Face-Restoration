@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="assets/gfpgan_logo.png" height=130>
-</p>
-
-
-
-1. [Colab Demo](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) for GFPGAN <a href="https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
-
 
 GFPGAN aims at developing a **Practical Algorithm for Real-world Face Restoration**.<br>
 It leverages rich and diverse priors encapsulated in a pretrained face GAN (*e.g.*, StyleGAN2) for blind face restoration.
@@ -63,6 +55,11 @@ We now provide a *clean* version of GFPGAN, which does not require customized CU
     # you also need to install the realesrgan package
     pip install realesrgan
     ```
+
+## Quick Demo
+
+[Colab Demo](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) for GFPGAN <a href="https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
+
 
 ## :zap: Quick Inference
 
