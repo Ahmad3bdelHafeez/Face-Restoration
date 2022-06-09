@@ -66,7 +66,7 @@ We now provide a *clean* version of GFPGAN, which does not require customized CU
 Download pre-trained models: [GFPGANv1.3.pth](https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth)
 
 ```bash
-wget https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth -P experiments/pretrained_models
+Copy to path -- experiments/pretrained_models
 ```
 
 **Inference!**
