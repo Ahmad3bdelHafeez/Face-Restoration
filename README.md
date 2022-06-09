@@ -31,7 +31,7 @@ We now provide a *clean* version of GFPGAN, which does not require customized CU
     cd GFPGAN
     ```
 
-1. Install dependent packages
+2. Install dependent packages
 
     ```bash
     # Install PyTorch
