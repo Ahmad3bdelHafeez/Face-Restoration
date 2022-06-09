@@ -16,8 +16,8 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (*e.g
 ### :book: GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior
 
 <p align="center">
-  <img src="assets\image-test.jpg">
-  <img src="assets\image-test-result.jpg">
+  <img src="assets\image-test.jpg" height=130 width=200>
+  <img src="assets\image-test-result.jpg" height=130 width=200>
 </p>
 
 ---
@@ -27,7 +27,6 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (*e.g
 - Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux)
 - [PyTorch >= 1.7](https://pytorch.org/)
 - Option: NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
-- Option: Linux
 
 ### Installation
 
