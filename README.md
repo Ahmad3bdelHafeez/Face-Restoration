@@ -16,8 +16,8 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (*e.g
 ### :book: GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior
 
 <p align="center">
-  <img src="assets\image-test.jpg" height=130 width=200>
-  <img src="assets\image-test-result.jpg" height=130 width=200>
+  <img src="assets\image-test.jpg" width=300>
+  <img src="assets\image-test-result.jpg"width=300>
 </p>
 
 ---
